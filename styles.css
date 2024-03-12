@@ -29,7 +29,7 @@ body{
 
 .problemas{
     display: block;
-    block-size: 10cm;   
+    block-size: 12cm;   
     padding-left: 0.5cm;
     padding-top: 1.9cm;
     
@@ -43,7 +43,6 @@ body{
 
 .problematicas-header{
     padding-top: 1cm;
-  
 }
 
 .problematicas{

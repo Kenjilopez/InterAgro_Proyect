@@ -53,4 +53,27 @@ body{
     padding-top: 0.8cm;
 }
 
+footer{
+    display: flex;
+    justify-content: space-around;        
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+
+}
+.bloque{
+    flex: 1;
+    padding: 0 20px;
+}
+
+
+.img2{
+    width: 658px;
+    height: 500px;
+}
+
+.img1{
+    width: 500px;
+    height: 500px;
+}
 

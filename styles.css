@@ -4,7 +4,7 @@
     padding-right: 900px;
     padding-top: 1cm;
     background-clip: content-box;
-    background-color: #fffafac2;
+    background-color: #60b92550;
     align-items: center;
     
 }
@@ -58,6 +58,8 @@ body{
 .Tecnologias{
     padding-top: 0.8cm;
     background-color: gray;
+    margin-top: 0.8cm;
+    padding-inline-start: 0.5em;
 }
 
 footer{
